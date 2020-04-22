@@ -1,0 +1,16 @@
+@import "variables";
+
+.App {
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 30px;
+
+	.app-container {
+		flex: 0 1 auto;
+		width: 900px;
+		height: auto;
+		background-color: $bg-color-page;
+	}
+}
