@@ -46,6 +46,6 @@
 		"less-loader": "^5.0.0",
 		"customize-cra": "^0.9.1",
 		"babel-plugin-import": "^1.13.0",
-		"node-sass": "^4.13.1"
+		"node-sass": "^7.0.0"
 	}
 }
